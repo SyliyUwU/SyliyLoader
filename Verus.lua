@@ -2,7 +2,7 @@ if _G.Addon == true then
     do
         local reop = "https://raw.githubusercontent.com/SyliyUwU/SyliyLoader/main/"
     
-        loadstring(game:HttpGet(reop .. please_load .. ".lua"))()
+        loadstring(game:HttpGet(reop .. "please_load.lua"))()
     end
 end
 
